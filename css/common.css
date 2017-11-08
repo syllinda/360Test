@@ -219,6 +219,7 @@ body,html {
     height: 85px;
     float: left;
     background: url("../images/bj/bg_3.jpg") no-repeat -515px -120px;
+    border-radius:50%;
     margin-top: -55px;
 }
 #zhineng>.zn1>div>h1 {
